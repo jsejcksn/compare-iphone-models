@@ -1,0 +1,156 @@
+{
+  "featured": {
+    "display": {
+      "dimension": "5.8”",
+      "type": "Super Retina HD display"
+    },
+    "camera": {
+      "sensor_resolution": "12MP",
+      "description": "wide-angle and telephoto cameras"
+    },
+    "security": "Face ID",
+    "processor": "A11 Bionic chip",
+    "charging": "Wireless charging (works with Qi chargers)"
+  },
+  "capacity": [
+    "64GB",
+    "256GB"
+  ],
+  "display": {
+    "description": "Super Retina HD display",
+    "panel": "5.8-inch (diagonal) all-screen OLED Multi‑Touch display",
+    "hdr": "HDR display",
+    "resolution": "2436-by-1125-pixel resolution at 458 ppi",
+    "contrast": "1,000,000:1 contrast ratio (typical)",
+    "true_tone": "True Tone display",
+    "gamut": "Wide color display (P3)",
+    "3d_touch": "3D Touch",
+    "brightness": "625 cd/m2 max brightness (typical)"
+  },
+  "size_and_weight": {
+    "height": "5.65 inches (143.6 mm)",
+    "width": "2.79 inches (70.9 mm)",
+    "depth": "0.30 inch (7.7 mm)",
+    "weight": "6.14 ounces (174 grams)"
+  },
+  "splash_water_dust_resistant": "✔️",
+  "chip": {
+    "processor": "A11 Bionic chip with 64-bit architecture",
+    "neural": "Neural engine",
+    "motion": "Embedded M11 motion coprocessor"
+  },
+  "camera": {
+    "description": "12MP wide-angle and telephoto cameras",
+    "types": [
+      "Wide-angle: ƒ/1.8 aperture",
+      "Telephoto: ƒ/2.4 aperture"
+    ],
+    "stabilization": "Dual optical image stabilization",
+    "zoom": "Optical zoom; digital zoom up to 10x",
+    "color_capture": "Wide color capture for photos and Live Photos",
+    "flash": "Quad-LED True Tone flash with Slow Sync",
+    "portrait_mode": "Portrait mode",
+    "portrait_lighting": "Portrait Lighting (beta)"
+  },
+  "video_recording": {
+    "4k": "4K video recording at 24 fps, 30 fps, or 60 fps",
+    "1080p": "1080p HD video recording at 30 fps or 60 fps",
+    "stabilization": "Optical image stabilization for video",
+    "zoom": "Optical zoom; digital zoom up to 6x",
+    "slo_mo": "Slo-mo video support for 1080p at 120 fps or 240 fps",
+    "time_lapse": "Time-lapse video with stabilization"
+  },
+  "front_camera": {
+    "description": "TrueDepth camera",
+    "resolution": "7MP photos",
+    "aperture": "ƒ/2.2 aperture",
+    "flash": "Retina Flash",
+    "color_capture": "Wide color capture for photos and Live Photos",
+    "video": "1080p HD video recording",
+    "portrait_mode": "Portrait mode",
+    "portrait_lighting": "Portrait Lighting (beta)",
+    "animoji": "Animoji"
+  },
+  "carriers": [
+    "AT&T",
+    "Sprint",
+    "T-Mobile",
+    "Verizon"
+  ],
+  "cellular_and_wireless": {
+    "gsm": "GSM/EDGE",
+    "utms": "UMTS/HSPA+",
+    "hsdpa": "DC-HSDPA",
+    "cdma": "CDMA EV-DO Rev. A (some models)",
+    "lte": "LTE Advanced",
+    "wifi": "802.11ac Wi‑Fi with MIMO",
+    "bluetooth": "Bluetooth 5.0",
+    "gps": "GPS, GLONASS, Galileo, and QZSS",
+    "volte": "VoLTE",
+    "nfc": "NFC with reader mode",
+    "wifi_calling": "Wi-Fi calling"
+  },
+  "secure_authentication": {
+    "description": "Face ID",
+    "detail": "Enabled by TrueDepth camera for facial recognition"
+  },
+  "apple_pay": {
+    "description": "Pay with your iPhone using Face ID in stores, within apps, and on the web",
+    "rewards": "Receive and redeem rewards using rewards cards"
+  },
+  "video_calling": {
+    "description": "FaceTime video",
+    "detail": "Initiate video calls over Wi‑Fi or cellular to any FaceTime-enabled device"
+  },
+  "audio_calling": {
+    "description": "FaceTime audio",
+    "detail": "Initiate audio calls over Wi‑Fi or cellular to any FaceTime audio-enabled device",
+    "volte": "Voice over LTE (VoLTE)",
+    "wifi": "Wi-Fi calling"
+  },
+  "audio_playback": {
+    "formats": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+    "limit": "User-configurable maximum volume limit"
+  },
+  "video_playback": {
+    "formats": "Video formats supported: HEVC, H.264, MPEG-4 Part 2, and Motion JPEG",
+    "hdr": "High Dynamic Range with Dolby Vision and HDR10 content",
+    "airplay": "AirPlay Mirroring, photos, and video out to Apple TV (2nd generation or later)",
+    "mirroring": "Video mirroring and video out support: Up to 1080p through Lightning Digital AV Adapter and Lightning to VGA Adapter (adapters sold separately)"
+  },
+  "siri": {
+    "description": "Use your voice to send messages, set reminders, and more",
+    "detail1": "Get intelligent suggestions in Messages, Mail, QuickType, and more",
+    "detail2": "Activate with only your voice using “Hey Siri”",
+    "detail3": "Listen and identify songs"
+  },
+  "power_and_battery": {
+    "relative": "Lasts up to 2 hours longer than iPhone 7",
+    "battery": "Built-in rechargeable lithium‑ion battery",
+    "charging1": "Wireless charging (works with Qi chargers)",
+    "charging2": "Charging via USB to computer system or power adapter",
+    "talk": "Up to 21 hours",
+    "internet": "Up to 12 hours",
+    "video": "Up to 13 hours",
+    "audio": "Up to 60 hours",
+    "fast_charge": "Up to 50% charge 30 minutes"
+  },
+  "included_headphones": {
+    "description": "EarPods with Lightning Connector",
+    "detail": "Lightning to 3.5 mm Headphone Jack Adapter"
+  },
+  "sensors": [
+      "Three-axis gyro",
+      "Accelerometer",
+      "Proximity sensor",
+      "Ambient light sensor",
+      "Barometer"
+    ],
+  "sim_card": {
+    "description": "Nano-SIM",
+    "detail": "Not compatible with existing micro-SIM cards"
+  },
+  "connector": {
+    "description": "Lightning"
+  }
+}
