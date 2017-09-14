@@ -1,156 +1,384 @@
 {
-  "featured": {
-    "display": {
-      "dimension": "5.8”",
-      "type": "Super Retina HD display"
-    },
-    "camera": {
-      "sensor_resolution": "12MP",
-      "description": "wide-angle and telephoto cameras"
-    },
-    "security": "Face ID",
-    "processor": "A11 Bionic chip",
-    "charging": "Wireless charging (works with Qi chargers)"
+  "model": {
+    "title": "iPhone X"
   },
-  "capacity": [
-    "64GB",
-    "256GB"
-  ],
-  "display": {
-    "description": "Super Retina HD display",
-    "panel": "5.8-inch (diagonal) all-screen OLED Multi‑Touch display",
-    "hdr": "HDR display",
-    "resolution": "2436-by-1125-pixel resolution at 458 ppi",
-    "contrast": "1,000,000:1 contrast ratio (typical)",
-    "true_tone": "True Tone display",
-    "gamut": "Wide color display (P3)",
-    "3d_touch": "3D Touch",
-    "brightness": "625 cd/m2 max brightness (typical)"
+  "finish": {
+    "title": "Finish",
+    "attributes": [
+      "Space Gray",
+      "Silver"
+    ]
+  },
+  "capacity": {
+    "title": "Capacity",
+    "attributes": [
+      "64GB",
+      "256GB"
+    ]
   },
   "size_and_weight": {
+    "title": "Size and Weight",
     "height": "5.65 inches (143.6 mm)",
     "width": "2.79 inches (70.9 mm)",
     "depth": "0.30 inch (7.7 mm)",
-    "weight": "6.14 ounces (174 grams)"
+    "weight": "0.30 inch (7.7 mm)"
   },
-  "splash_water_dust_resistant": "✔️",
+  "display": {
+    "title": "Display",
+    "attributes": [
+      "Super Retina HD display",
+      "5.8-inch (diagonal) all-screen OLED Multi-Touch display",
+      "HDR display",
+      "2436-by-1125-pixel resolution at 458 ppi",
+      "1,000,000:1 contrast ratio (typical)",
+      "True Tone display",
+      "Wide color display (P3)",
+      "3D Touch",
+      "625 cd/m2 max brightness (typical)",
+      "Fingerprint-resistant oleophobic coating",
+      "Support for display of multiple languages and characters&nbsp;simultaneously"
+    ],
+    "note": "The iPhone&nbsp;X display has rounded corners that follow a beautiful curved design, and these corners are within a standard rectangle. When measured as a standard rectangular shape, the screen is 5.85 inches diagonally (actual viewable area is less)."
+  },
+  "splash_water_resistance": {
+    "title": "Splash, Water, and Dust Resistant",
+    "attributes": [
+      "Rated IP67 under IEC standard 60529"
+    ]
+  },
   "chip": {
-    "processor": "A11 Bionic chip with 64-bit architecture",
-    "neural": "Neural engine",
-    "motion": "Embedded M11 motion coprocessor"
+    "title": "Chip",
+    "attributes": [
+      "A11 Bionic chip with 64-bit architecture",
+      "Neural engine",
+      "Embedded M11 motion coprocessor"
+    ]
   },
   "camera": {
-    "description": "12MP wide-angle and telephoto cameras",
-    "types": [
+    "title": "Camera",
+    "attributes": [
+      "12MP wide-angle and telephoto cameras",
       "Wide-angle: ƒ/1.8 aperture",
-      "Telephoto: ƒ/2.4 aperture"
-    ],
-    "stabilization": "Dual optical image stabilization",
-    "zoom": "Optical zoom; digital zoom up to 10x",
-    "color_capture": "Wide color capture for photos and Live Photos",
-    "flash": "Quad-LED True Tone flash with Slow Sync",
-    "portrait_mode": "Portrait mode",
-    "portrait_lighting": "Portrait Lighting (beta)"
+      "Telephoto: ƒ/2.4 aperture",
+      "Optical zoom; digital zoom up to 10x",
+      "Portrait mode",
+      "Portrait Lighting (beta)",
+      "Dual optical image stabilization",
+      "Six‑element lens",
+      "Quad-LED True&nbsp;Tone flash with Slow&nbsp;Sync",
+      "Panorama (up to 63MP)",
+      "Sapphire crystal lens cover",
+      "Backside illumination sensor",
+      "Hybrid IR filter",
+      "Autofocus with Focus&nbsp;Pixels",
+      "Tap to focus with Focus&nbsp;Pixels",
+      "Live Photos with stabilization",
+      "Wide color capture for photos and Live&nbsp;Photos",
+      "Improved local tone mapping",
+      "Body and face detection",
+      "Exposure control",
+      "Noise reduction",
+      "Auto HDR for photos",
+      "Auto image stabilization",
+      "Burst mode",
+      "Timer mode",
+      "Photo geotagging",
+      "Image formats captured: HEIF and JPEG"
+    ]
   },
   "video_recording": {
-    "4k": "4K video recording at 24 fps, 30 fps, or 60 fps",
-    "1080p": "1080p HD video recording at 30 fps or 60 fps",
-    "stabilization": "Optical image stabilization for video",
-    "zoom": "Optical zoom; digital zoom up to 6x",
-    "slo_mo": "Slo-mo video support for 1080p at 120 fps or 240 fps",
-    "time_lapse": "Time-lapse video with stabilization"
+    "title": "Video Recording",
+    "attributes": [
+      "4K video recording at 24 fps, 30 fps, or 60 fps",
+      "1080p HD video recording at 30 fps or 60 fps",
+      "720p HD video recording at 30 fps",
+      "Optical image stabilization for video",
+      "Optical zoom; 6x digital zoom",
+      "Quad-LED True&nbsp;Tone flash",
+      "Slo‑mo video support for 1080p at 120 fps or 240 fps",
+      "Time‑lapse video with stabilization",
+      "Cinematic video&nbsp;stabilization (1080p and 720p)",
+      "Continuous autofocus video",
+      "Body and face detection",
+      "Noise reduction",
+      "Take 8MP still photos while recording 4K video",
+      "Playback zoom",
+      "Video geotagging",
+      "Video formats recorded: HEVC and H.264"
+    ]
   },
-  "front_camera": {
-    "description": "TrueDepth camera",
-    "resolution": "7MP photos",
-    "aperture": "ƒ/2.2 aperture",
-    "flash": "Retina Flash",
-    "color_capture": "Wide color capture for photos and Live Photos",
-    "video": "1080p HD video recording",
-    "portrait_mode": "Portrait mode",
-    "portrait_lighting": "Portrait Lighting (beta)",
-    "animoji": "Animoji"
+  "truedepth_camera": {
+    "title": "TrueDepth Camera",
+    "attributes": [
+      "7MP camera",
+      "Portrait mode",
+      "Portrait Lighting (beta)",
+      "Animoji",
+      "1080p HD video recording",
+      "Retina Flash",
+      "ƒ/2.2 aperture",
+      "Wide color capture for photos and Live&nbsp;Photos",
+      "Auto HDR",
+      "Backside illumination sensor",
+      "Body and face detection",
+      "Auto image stabilization",
+      "Burst mode",
+      "Exposure control",
+      "Timer mode"
+    ]
   },
-  "carriers": [
-    "AT&T",
-    "Sprint",
-    "T-Mobile",
-    "Verizon"
-  ],
-  "cellular_and_wireless": {
-    "gsm": "GSM/EDGE",
-    "utms": "UMTS/HSPA+",
-    "hsdpa": "DC-HSDPA",
-    "cdma": "CDMA EV-DO Rev. A (some models)",
-    "lte": "LTE Advanced",
-    "wifi": "802.11ac Wi‑Fi with MIMO",
-    "bluetooth": "Bluetooth 5.0",
-    "gps": "GPS, GLONASS, Galileo, and QZSS",
-    "volte": "VoLTE",
-    "nfc": "NFC with reader mode",
-    "wifi_calling": "Wi-Fi calling"
-  },
-  "secure_authentication": {
-    "description": "Face ID",
-    "detail": "Enabled by TrueDepth camera for facial recognition"
+  "face_id": {
+    "title": "Face ID",
+    "attributes": [
+      "Enabled by TrueDepth camera for facial recognition"
+    ]
   },
   "apple_pay": {
-    "description": "Pay with your iPhone using Face ID in stores, within apps, and on the web",
-    "rewards": "Receive and redeem rewards using rewards cards"
+    "title": "Apple Pay",
+    "attributes": [
+      "Pay with your iPhone using Face ID in stores, within apps, and on the&nbsp;web",
+      "Complete purchases made with Apple Pay on your Mac",
+      "Receive and redeem rewards using rewards cards"
+    ]
+  },
+  "carriers": {
+    "title": "Carriers",
+    "attributes": [
+      "AT&amp;T",
+      "Sprint",
+      "T-Mobile",
+      "Verizon Wireless",
+      "Virgin Mobile"
+    ]
+  },
+  "cellular_and_wireless": {
+    "title": "Cellular and Wireless",
+    "models": [
+      {
+        "name": "Model A1865",
+        "attributes": [
+          "FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 66)",
+          "TD-LTE (Bands 34, 38, 39, 40, 41)",
+          "TD-SCDMA 1900 (F), 2000 (A)",
+          "CDMA EV-DO Rev. A (800, 1900, 2100 MHz)",
+          "UMTS/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)",
+          "GSM/EDGE (850, 900, 1800, 1900 MHz)"
+        ]
+      },
+      {
+        "name": "Model A1901",
+        "attributes": [
+          "FDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 29, 30, 66)",
+          "TD-LTE (Bands 34, 38, 39, 40, 41)",
+          "UMTS/HSPA+/DC-HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)",
+          "GSM/EDGE (850, 900, 1800, 1900 MHz)"
+        ],
+        "note": "Model A1901 does not support CDMA networks, such as those used by Verizon and Sprint."
+      },
+      {
+        "name": "All models",
+        "attributes": [
+          "802.11ac Wi‑Fi with MIMO",
+          "Bluetooth 5.0 wireless technology",
+          "NFC with reader mode"
+        ]
+      }
+    ]
+  },
+  "location": {
+    "title": "Location",
+    "attributes": [
+      "Assisted GPS, GLONASS, Galileo, and QZSS",
+      "Digital compass",
+      "Wi-Fi",
+      "Cellular",
+      "iBeacon microlocation"
+    ]
   },
   "video_calling": {
-    "description": "FaceTime video",
-    "detail": "Initiate video calls over Wi‑Fi or cellular to any FaceTime-enabled device"
+    "title": "Video Calling",
+    "attributes": [
+      "FaceTime video calling over Wi‑Fi or cellular"
+    ]
   },
   "audio_calling": {
-    "description": "FaceTime audio",
-    "detail": "Initiate audio calls over Wi‑Fi or cellular to any FaceTime audio-enabled device",
-    "volte": "Voice over LTE (VoLTE)",
-    "wifi": "Wi-Fi calling"
+    "title": "Audio Calling",
+    "attributes": [
+      "FaceTime audio",
+      "Voice over LTE (VoLTE)",
+      "Wi‑Fi calling"
+    ]
   },
   "audio_playback": {
-    "formats": "AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
-    "limit": "User-configurable maximum volume limit"
+    "title": "Audio Playback",
+    "attributes": [
+      "Audio formats supported: AAC-LC, HE-AAC, HE-AAC v2, Protected AAC, MP3, Linear PCM, Apple Lossless, FLAC, Dolby Digital (AC-3), Dolby Digital Plus (E-AC-3), and Audible (formats 2, 3, 4, Audible Enhanced Audio, AAX, and AAX+)",
+      "User-configurable maximum volume limit"
+    ]
   },
   "video_playback": {
-    "formats": "Video formats supported: HEVC, H.264, MPEG-4 Part 2, and Motion JPEG",
-    "hdr": "High Dynamic Range with Dolby Vision and HDR10 content",
-    "airplay": "AirPlay Mirroring, photos, and video out to Apple TV (2nd generation or later)",
-    "mirroring": "Video mirroring and video out support: Up to 1080p through Lightning Digital AV Adapter and Lightning to VGA Adapter (adapters sold separately)"
+    "title": "Video Playback",
+    "attributes": [
+      "Video formats supported: HEVC, H.264, MPEG-4 Part 2, and Motion JPEG",
+      "High Dynamic Range with Dolby Vision and HDR10 content",
+      "AirPlay Mirroring, photos, and video out to Apple TV (2nd generation or later)",
+      "Video mirroring and video out support: Up to 1080p through Lightning Digital AV Adapter and Lightning to VGA Adapter (adapters sold separately)"
+    ]
   },
   "siri": {
-    "description": "Use your voice to send messages, set reminders, and more",
-    "detail1": "Get intelligent suggestions in Messages, Mail, QuickType, and more",
-    "detail2": "Activate with only your voice using “Hey Siri”",
-    "detail3": "Listen and identify songs"
+    "title": "Siri",
+    "attributes": [
+      "Use your voice to send messages, set reminders, and&nbsp;more",
+      "Get intelligent suggestions in Messages, Mail, QuickType, and more ",
+      "Activate with only your voice using “Hey Siri”",
+      "Listen and identify songs"
+    ]
+  },
+  "external": {
+    "title": "External Buttons and Connectors",
+    "attributes": [
+      "Volume up/down",
+      "Ring/Silent switch",
+      "Side button",
+      "Built-in stereo speaker<br>&zwnj;Built-in microphone",
+      "Lightning connector",
+      "Built-in microphone",
+      "Built-in stereo speaker"
+    ]
   },
   "power_and_battery": {
-    "relative": "Lasts up to 2 hours longer than iPhone 7",
-    "battery": "Built-in rechargeable lithium‑ion battery",
-    "charging1": "Wireless charging (works with Qi chargers)",
-    "charging2": "Charging via USB to computer system or power adapter",
+    "title": "Power and Battery",
+    "comparison": "Lasts up to 2 hours longer than iPhone 7",
     "talk": "Up to 21 hours",
     "internet": "Up to 12 hours",
     "video": "Up to 13 hours",
     "audio": "Up to 60 hours",
-    "fast_charge": "Up to 50% charge 30 minutes"
+    "fast_charge": "Up to 50% charge 30 minutes",
+    "attributes": [
+      "Built-in rechargeable lithium-ion battery",
+      "Wireless charging (works with Qi chargers)",
+      "Charging via USB to computer system or power adapter",
+      "Fast-charge capable"
+    ]
   },
-  "included_headphones": {
-    "description": "EarPods with Lightning Connector",
-    "detail": "Lightning to 3.5 mm Headphone Jack Adapter"
-  },
-  "sensors": [
+  "sensors": {
+    "title": "Sensors",
+    "attributes": [
+      "Face ID",
+      "Barometer",
       "Three-axis gyro",
       "Accelerometer",
       "Proximity sensor",
-      "Ambient light sensor",
-      "Barometer"
-    ],
-  "sim_card": {
-    "description": "Nano-SIM",
-    "detail": "Not compatible with existing micro-SIM cards"
+      "Ambient light sensor"
+    ]
   },
-  "connector": {
-    "description": "Lightning"
+  "headphones": {
+    "title": "Headphones",
+    "attributes": [
+      "EarPods with Lightning Connector"
+    ]
+  },
+  "sim": {
+    "title": "SIM Card",
+    "attributes": [
+      "Nano-SIM",
+      "iPhone X is not compatible with existing micro-SIM cards."
+    ]
+  },
+  "hearing_aids": {
+    "title": "Rating for Hearing Aids",
+    "attributes": [
+      "iPhone X (Model A1865, A1901): M3,&nbsp;T4"
+    ]
+  },
+  "mail": {
+    "title": "Mail Attachment Support",
+    "attributes": [
+      ".jpg, .tiff, .gif (images); .doc and .docx (Microsoft Word); .htm and .html (web pages); .key (Keynote); .numbers (Numbers); .pages (Pages); .pdf (Preview and Adobe Acrobat); .ppt and .pptx (Microsoft PowerPoint); .txt (text); .rtf (rich text format); .vcf (contact information); .xls and .xlsx&nbsp;(Microsoft Excel); .zip; .ics"
+    ]
+  },
+  "system_requirements": {
+    "title": "System Requirements",
+    "attributes": [
+      "Apple ID (required for some features)",
+      "Internet access",
+      "Syncing with iTunes on a Mac or PC requires:",
+      [
+        "Mac: OS X 10.9.5 or later",
+        "PC: Windows 7 or later",
+        "iTunes 12.7 or later (free download from www.itunes.com/download)"
+      ]
+    ]
+  },
+  "environmental_requirements": {
+    "title": "Environmental Requirements",
+    "attributes": [
+      "Operating ambient temperature: 32° to 95° F (0° to 35° C)",
+      "Nonoperating temperature: −4° to 113° F (−20° to 45° C)",
+      "Relative humidity: 5% to 95% noncondensing",
+      "Operating altitude: tested up to 10,000 feet (3000 m)"
+    ]
+  },
+  "languages": {
+    "title": "Languages",
+    "support": {
+      "title": "Language support",
+      "attributes": [
+        "English (Australia, UK, U.S.), Chinese (Simplified, Traditional, Traditional Hong Kong), French (Canada, France), German, Italian, Japanese, Korean, Spanish (Latin America, Mexico, Spain), Arabic, Catalan, Croatian, Czech, Danish, Dutch, Finnish, Greek, Hebrew, Hindi, Hungarian, Indonesian, Malay, Norwegian, Polish, Portuguese (Brazil, Portugal), Romanian, Russian, Slovak, Swedish, Thai, Turkish, Ukrainian, Vietnamese"
+      ]
+    },
+    "quicktype": {
+      "title": "QuickType keyboard support",
+      "attributes": [
+        "English (Australia, Canada, India, Singapore, UK, U.S.), Chinese - Simplified (Handwriting, Pinyin, Stroke), Chinese - Traditional (Cangjie, Handwriting, Pinyin, Stroke, Sucheng, Zhuyin), French (Belgium, Canada, France, Switzerland), German (Austria, Germany, Switzerland), Italian, Japanese (Kana, Romaji), Korean, Spanish (Latin America, Mexico, Spain), Arabic (Modern Standard, Najdi), Armenian, Azerbaijani, Belarusian, Bengali, Bulgarian, Catalan, Cherokee, Croatian, Czech, Danish, Dutch, Emoji, Estonian, Filipino, Finnish, Flemish, Georgian, Greek, Gujarati, Hawaiian, Hebrew, Hindi (Devanagari, Transliteration), Hinglish, Hungarian, Icelandic, Indonesian, Irish, Kannada, Latvian, Lithuanian, Macedonian, Malay, Malayalam, Maori, Marathi, Norwegian, Odia, Persian, Polish, Portuguese (Brazil, Portugal), Punjabi, Romanian, Russian, Serbian (Cyrillic, Latin), Slovak, Slovenian, Swahili, Swedish, Tamil (Script, Transliteration), Telugu, Thai, Tibetan, Turkish, Ukrainian, Urdu, Vietnamese, Welsh"
+      ]
+    },
+    "quicktype_predictive": {
+      "title": "QuickType keyboard support with predictive input",
+      "attributes": [
+        "English (Australia, Canada, India, Singapore, UK, U.S.), Chinese (Simplified, Traditional), French (Belgium, Canada, France, Switzerland), German (Austria, Germany, Switzerland), Italian, Japanese, Korean, Russian, Spanish (Latin America, Mexico, Spain), Portuguese (Brazil, Portugal), Thai, Turkish"
+      ]
+    },
+    "siri": {
+      "title": "Siri languages",
+      "attributes": [
+        "English (Australia, Canada, India, Ireland, New Zealand, Singapore, South Africa, UK, U.S.), Spanish (Chile, Mexico, Spain, U.S.), French (Belgium, Canada, France, Switzerland), German (Austria, Germany, Switzerland), Italian (Italy, Switzerland), Japanese, Korean, Mandarin (Mainland China, Taiwan), Cantonese (Mainland China, Hong Kong, Macao), Arabic (Saudi Arabia, United Arab Emirates), Danish (Denmark), Dutch (Belgium, Netherlands), Finnish (Finland), Hebrew (Israel), Malay (Malaysia), Norwegian (Norway), Portuguese (Brazil), Russian (Russia), Swedish (Sweden), Thai (Thailand), Turkish (Turkey)"
+      ]
+    },
+    "dictation": {
+      "title": "Dictation languages",
+      "attributes": [
+        "English (Australia, Canada, India, Indonesia, Ireland, Malaysia, New Zealand, Philippines, Saudi Arabia, Singapore, South Africa, United Arab Emirates, UK, U.S.), Spanish (Argentina, Chile, Colombia, Costa Rica, Dominican Republic, Ecuador, El Salvador, Guatemala, Honduras, Mexico, Panama, Paraguay, Peru, Spain, Uruguay, U.S.), French (Belgium, Canada, France, Luxembourg, Switzerland), German (Austria, Germany, Luxembourg, Switzerland), Italian (Italy, Switzerland), Japanese, Korean, Mandarin (Mainland China, Taiwan), Cantonese (Mainland China, Hong Kong, Macao), Arabic (Kuwait, Qatar, Saudi Arabia, United Arab Emirates), Catalan, Croatian, Czech, Danish, Dutch (Belgium, Netherlands), Finnish, Greek, Hebrew, Hindi (India), Hungarian, Indonesian, Malaysian, Norwegian, Polish, Portuguese (Brazil, Portugal), Romanian, Russian, Shanghainese (Mainland China), Slovakian, Swedish, Thai, Turkish, Ukrainian, Vietnamese"
+      ]
+    },
+    "definition": {
+      "title": "Definition dictionary support",
+      "attributes": [
+        "English, Chinese (Simplified, Traditional), Danish, Dutch, French, German, Hindi, Italian, Japanese, Korean, Norwegian, Portuguese, Russian, Spanish, Swedish, Thai, Turkish"
+      ]
+    },
+    "bilingual": {
+      "title": "Bilingual dictionary support",
+      "attributes": [
+        "Chinese (Simplified), Dutch, French, German, Italian, Japanese, Korean, Portuguese, Russian, Spanish"
+      ]
+    },
+    "spell_check": {
+      "title": "Spell check",
+      "attributes": [
+        "English, French, German, Italian, Spanish, Danish, Dutch, Finnish, Korean, Norwegian, Polish, Portuguese, Russian, Swedish, Turkish"
+      ]
+    }
+  },
+  "in_the_box": {
+    "title": "In the Box",
+    "attributes": [
+      "iPhone with iOS 11",
+      "EarPods with Lightning Connector",
+      "Lightning to 3.5 mm Headphone Jack Adapter",
+      "Lightning to USB Cable",
+      "USB Power Adapter",
+      "Documentation"
+    ]
   }
 }
